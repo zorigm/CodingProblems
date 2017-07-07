@@ -1,5 +1,3 @@
-package endstarttesting;
-
 public class RealPermPal {
 
 	public boolean isPermPal(String Str)
