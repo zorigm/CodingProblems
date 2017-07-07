@@ -1,5 +1,3 @@
-package endstarttesting;
-
 import java.util.Arrays;
 
 public class Anagram {
